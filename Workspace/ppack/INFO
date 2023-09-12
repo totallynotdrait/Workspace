@@ -1,0 +1,2 @@
+ppack is a python module that makes a file with inside the content of other files,
+then it can be extracted into a list containing the files content.
