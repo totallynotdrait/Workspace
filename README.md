@@ -20,6 +20,25 @@ And then you are ready to go to use Workspace!
 
 In Workspace the Program Manager is the Main window to open the Workspace programs, DearPyGui programs and also the widgets.
 
+# Workspace programs
+
+Workspace includes many programns like:
+ - XTerminal\tEmulates the terminal of your operating system
+ - Text Editor\tA basic text editor to modify files
+ - Paint\tSimilar to Windows paint
+ - Image Viewer (currently in development)
+ - Vertex Engine (A prototype)
+ - ppack packer (currently in development)\tCreates a ppack package
+ - pcall editor (currently in development)\tAllows to read and modify pcall scripts
+ - PDF Viewer (currently in development)
+ - Control panel\tAllows to modify some settings of Workspace like the theme or font
+
+# Widgets
+Workspace includes widgets like:
+ - Weather\tTells the weather in base your location
+ - Quick note\tA mini notepad
+ - Rotating cube\tA cube that doesn't rotate (might gonna be removed in future versions)
+
 
 # Additional notes
 
