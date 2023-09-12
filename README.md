@@ -23,15 +23,15 @@ In Workspace the Program Manager is the Main window to open the Workspace progra
 # Workspace programs
 
 Workspace includes many programns like:
- - XTerminal\tEmulates the terminal of your operating system
- - Text Editor\tA basic text editor to modify files
- - Paint\tSimilar to Windows paint
+ - XTerminal                     Emulates the terminal of your operating system
+ - Text Editor                   A basic text editor to modify files
+ - Paint                         Similar to Windows paint
  - Image Viewer (currently in development)
  - Vertex Engine (A prototype)
  - ppack packer (currently in development)\tCreates a ppack package
  - pcall editor (currently in development)\tAllows to read and modify pcall scripts
  - PDF Viewer (currently in development)
- - Control panel\tAllows to modify some settings of Workspace like the theme or font
+ - Control panel                 Allows to modify some settings of Workspace like the theme or font
 
 # Widgets
 Workspace includes widgets like:
