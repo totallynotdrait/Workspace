@@ -32,8 +32,8 @@ Workspace includes many programns like:
  - Paint                         (Similar to Windows paint)
  - Image Viewer (currently in development)
  - Vertex Engine (A prototype)
- - ppack packer (currently in development)\tCreates a ppack package
- - pcall editor (currently in development)\tAllows to read and modify pcall scripts
+ - ppack packer (Creates a ppack package, currently in development)
+ - pcall editor (Allows to read and modify pcall scripts, currently in development)
  - PDF Viewer (currently in development)
  - Control panel                 (Allows to modify some settings of Workspace like the theme or font)
 
