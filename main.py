@@ -12,7 +12,7 @@
 #      to DearPyGui_Extend File browser (package fileseq is required)
 #NOTE: Possibly in version b.3.0, Workspace will add animation
 #      using DearPyGui_Animation
-#hello
+
 print("[STARTING]")
 
 #------------------= Modules =------------------#
