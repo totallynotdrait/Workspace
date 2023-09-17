@@ -7,9 +7,13 @@ Preview of the Workspace with the Modern theme and the Aero Effect
 
 # How to run Workspace
 
+Script version:
 1. Download the Workspace zip folder
 2. Extract it
 3. run 'main.py'
+
+Compiled version:
+1. Run Workspace b.2.3.exe (Works only on 64-bits systems)
 
 On the first run Workspace should install the requirement modules if they are not found.
 After the installation of the modules Workspace will start with a loading, meaning that Workspace is loading
@@ -50,3 +54,5 @@ Workspace includes widgets like:
 # Credits
 
  - Credit @Tensor (for the Aero and Mica effect on the viewport) - https://discord.com/channels/736279277242417272/1068600047090016397/1070025491895029760
+ - Credit @hoffstadt (for the message box) - https://github.com/hoffstadt/DearPyGui/discussions/1308
+ - Credit #mrtnRitter (for the add-on DearPyGui_Animate) - https://github.com/mrtnRitter/DearPyGui_Animate
