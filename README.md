@@ -48,7 +48,7 @@ Workspace includes widgets like:
 
  - Workspace is in early development stages, which mean that bugs, unfinished programs or features might occur while using Workspace
  - Workspace has devolped and tested on Windows, some features might not work in other Operating Systems
- - When the modern theme is selected the Aero or Mica effect may not display for many reasons, see mvLogger in DearPyGui_ext in Program Manager
+ - When the modern theme is selected the Aero or Mica effect may not display for many reasons, see mvLogger for more information
 
 
 # Credits
