@@ -1,0 +1,13 @@
+Workspace Python Version
+
+
+Workspace is a sort of Desktop Enviroment for running on computer industries for making basic stuff.
+Workspace was originally created in C# using a TUI framework called Terminal.GUI, this is the Python version
+using the DearPyGui library.
+
+Main Features:
+
+- Has the same interface of the C# version
+- Can run some DPG demos
+- Designed to look beatiful, simple and easy to use
+- When running on terminal it will print debug stuff from Workspace and DPG

@@ -1,0 +1,137 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/Facil/Desktop/Workspace/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "name",
+   "value": "Wokrspace b.2.3"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "chardet"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/ppack;ppack/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/windoweffect;windoweffect/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/workspace;workspace/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/token files;token files/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/pcall;pcall/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/config.ini;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/ga_error1.vbs;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/Google.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/image.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/pm_error1.vbs;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/programs.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/tools.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/widgets.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Facil/Desktop/Workspace/ws_warn1.vbs;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
