@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is a old and deprecated version of Workspace, a sort of concept. Updated project is [here.](https://github.com/totallynotdrait/WDE)
+
 # Workspace
 Workspace is a desktop interface writted in Python and powered by DearPyGui
 
